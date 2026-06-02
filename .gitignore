@@ -1,0 +1,23 @@
+# Environment / credentials
+.env
+dbconnect_local.php
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Uploaded user files (don't commit real uploads)
+salon/uploads/*
+salon/pretty/img/uploads/*
+!salon/uploads/.gitkeep
+
+# Logs
+*.log
+
+# Compiled assets (if any)
+node_modules/
