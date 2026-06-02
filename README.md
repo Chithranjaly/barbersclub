@@ -63,7 +63,7 @@ Built as a mini-project during my Bachelor's degree (2020), this is a complete s
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/barbersclub.git
+   git clone https://github.com/Chithranjaly/barbersclub.git
    cd barbersclub
    ```
 
