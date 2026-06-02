@@ -143,4 +143,4 @@ salon/
 ## 👤 Author
 
 **Chithranjaly** — MSc Computing Graduate  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) | [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/chithranjaly-k-s-a28b57217/) | [GitHub](https://github.com/Chithranjaly)
