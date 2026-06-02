@@ -1,0 +1,54 @@
+# ------------------------------
+# PHP dependencies (Composer)
+# ------------------------------
+/vendor/
+
+# ------------------------------
+# Environment / secrets
+# ------------------------------
+.env
+.env.*
+!.env.example
+
+# ------------------------------
+# Logs & runtime files
+# ------------------------------
+*.log
+logs/
+tmp/
+cache/
+
+# ------------------------------
+# Uploaded / generated files
+# ------------------------------
+uploads/
+public/uploads/
+storage/
+storage/*
+!storage/.gitkeep
+
+# ------------------------------
+# IDE / editor junk
+# ------------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ------------------------------
+# OS junk
+# ------------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------------
+# PHPUnit / test artifacts
+# ------------------------------
+.phpunit.result.cache
+coverage/
+
+# ------------------------------
+# Build artifacts
+# ------------------------------
+dist/
+build/
